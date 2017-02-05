@@ -1,4 +1,4 @@
-<!DOCTYPE HTML>
+
 <html>
 <head>
 <title>I don't care anymore</title>
